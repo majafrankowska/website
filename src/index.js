@@ -7,7 +7,6 @@ import { render } from "react-dom";
 
 import App from "./App";
 
-// Zmień tytuł strony
 document.title = "Maja Frankowska";
 
 render(<App />, document.getElementById("app"));
