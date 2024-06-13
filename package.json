@@ -1,7 +1,7 @@
 {
-  "name": "Maja Frankowska",
+  "name": "educator-js-codespaces-template",
   "version": "1.0.0",
-  "description": "Maja Frankowska",
+  "description": "Educator JS Codespaces Template",
   "source": "src/index.html",
   "homepage": "https://github.com/microsoft/codespaces-teaching-template-js#readme",
   "scripts": {
