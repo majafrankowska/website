@@ -7,6 +7,4 @@ import { render } from "react-dom";
 
 import App from "./App";
 
-document.title = "Maja Frankowska";
-
 render(<App />, document.getElementById("app"));
