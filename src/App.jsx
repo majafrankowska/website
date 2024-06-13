@@ -33,6 +33,7 @@ const siteProps = {
   medium: "majafrankowska",
   twitter: "",
   youTube: "",
+  pageTitle: "Maja Frankowska's Portfolio",
 };
 
 const primaryColor = "#4E567E";
